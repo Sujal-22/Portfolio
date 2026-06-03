@@ -78,7 +78,7 @@ export default function About() {
             <div className="absolute -bottom-2 -right-2 w-8 h-8 border-b-2 border-r-2 border-[#FBBF24] z-10 rounded-br-sm" />
             <div className="rounded-2xl overflow-hidden">
               <TiltedCard
-                imageSrc="./src/public/profile.png"
+                imageSrc="/profile.png"
                 altText="Sujal Kumar"
                 captionText="Sujal Kumar"
                 containerHeight="400px"

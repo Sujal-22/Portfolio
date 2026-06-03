@@ -19,7 +19,7 @@ const PROJECTS = [
       "Supabase",
     ],
     liveUrl: "http://13.235.242.251/",
-    screenshot: "./src/public/synapse.png",
+    screenshot: "/synapse.png",
   },
   {
     id: "02",
@@ -30,7 +30,7 @@ const PROJECTS = [
       "SpecScore is a smart project evaluation platform built for developers and innovators. Powered by Gemini AI and real-time integrations, it delivers intelligent project scoring, GitHub-based analysis, and industry-driven insights to help users validate ideas, strengthen technical execution, and identify opportunities for growth",
     tech: ["Kotlin", "XML", "Firebase", "Gemini API"],
     liveUrl: "",
-    screenshot: "./src/public/HomeScreen.jpeg",
+    screenshot: "/HomeScreen.jpeg",
   },
 ];
 

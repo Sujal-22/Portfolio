@@ -9,7 +9,7 @@ const BIO =
   "Designing and developing user-focused mobile solutions powered by modern technology and innovation.";
 const EMAIL = "kumarsujal751@gmail.com";
 const LINKEDIN_MSG_URL = "https://www.linkedin.com/in/sujal22";
-const VIDEO_SRC = "./src/public/Contact.mp4";
+const VIDEO_SRC = "/Contact.mp4";
 const YEAR = new Date().getFullYear();
 const INITIALS = "SK";
 

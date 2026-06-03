@@ -1,7 +1,7 @@
 import { useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-const VIDEO_SRC = "./src/public/Protfolio.mp4";
+const VIDEO_SRC = "/portfolio.mp4";
 const YOUR_NAME = "SUJAL KUMAR";
 const YOUR_ROLES = "Application developer · AI Integration · Modern UI";
 

@@ -6,7 +6,7 @@ const YOUR_NAME_LINE2 = "Kumar";
 const YOUR_ROLE = "Application Developer";
 const YOUR_CITY = "New Delhi, India";
 const YOUR_EMAIL = "kumarsujal751@gmail.com";
-const PHOTO_SRC = "./src/public/Photo.png";
+const PHOTO_SRC = "/Photo.png";
 
 const SKILLS = ["Debugging", "Problem Solving", "Scalable Application"];
 
